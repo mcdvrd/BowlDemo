@@ -1,6 +1,6 @@
 node application to score 10-pin bowling. Created 2/1/2019 for Zappallas code exercise.
 ```
-> node BowlScore.js <i-i/-t> <initial string>
+> node BowlScore.js <-i/-t> <initial string>
 ```
 
 
