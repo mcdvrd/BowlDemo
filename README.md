@@ -11,3 +11,11 @@ Options:
 	-t: Test the application using sample data
 
 ```
+Examples:
+```
+> node BowlDemo xxxxxxxxxxxx
+> node BowlDemo 5/5/5/5/5/5/5/5/5/5/5
+> node BowlDemo -t
+> node BowlDemo -i
+> node BowlDemo -i xxxxxxxxxx
+```
